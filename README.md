@@ -20,7 +20,7 @@
 ## Database Table
 ![Table Design](Image/Table Design.png)
  ### Identity
-  ![Identity](Image/Identity.png)
+ ![Identity](Image/Identity.png)
  ### TourInfo
   ![TourInfo](Image/TourInfo.png)
  ### TourComment
