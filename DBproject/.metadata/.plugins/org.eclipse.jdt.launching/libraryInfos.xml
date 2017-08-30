@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre" version="1.8.0_121">
+<bootpath>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\resources.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\rt.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\jsse.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\jce.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\charsets.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\jfr.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\ext"/>
+<entry path="C:\windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jre1.8.0_92" version="1.8.0_92">
+<bootpath>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_92\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_92\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse" version="1.8.0_121">
+<bootpath>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\resources.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\rt.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\jsse.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\jce.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\charsets.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\jfr.jar"/>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\ext"/>
+<entry path="C:\windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\17년 1학기\네트워크 프로그래밍\NetProg\eclipse\EclipsePortable\App\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
