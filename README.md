@@ -18,8 +18,7 @@
 * RouteDet{C_ID, R_ID}
 * ImageSet{C_ID, R_ID}
 ## Database Table
-![ER-Diagram](Image/ER-Diagram.png)
-![Table Design](Image/Table Design.png)
+![TableDesign](Image/TableDesign.png)
  ### Identity
  ![Identity](Image/Identity.png)
  ### TourInfo
