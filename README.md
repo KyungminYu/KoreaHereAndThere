@@ -20,19 +20,19 @@
 ## Database Table
 ![TableDesign](Image/TableDesign.png)
  ### Identity
- ![Identity](Image/Identity.png)
+ ![Identity](Image/Identity.PNG)
  ### TourInfo
-  ![TourInfo](Image/TourInfo.png)
+  ![TourInfo](Image/TourInfo.PNG)
  ### TourComment
-  ![TourComment](Image/TourComment.png)
+  ![TourComment](Image/TourComment.PNG)
  ### CourceInfo
-  ![CourceInfo](Image/CourceInfo.png)
+  ![CourceInfo](Image/CourceInfo.PNG)
  ### CourseRouteInfo
-  ![CourseRouteInfo](Image/CourseRouteInfo.png)
+  ![CourseRouteInfo](Image/CourseRouteInfo.PNG)
  ### secRouteDetInfo
-  ![secRouteDetInfo](Image/secRouteDetInfo.png)
+  ![secRouteDetInfo](Image/secRouteDetInfo.PNG)
  ### FavoriteTour
-  ![FavoriteTour](Image/FavoriteTour.png)
+  ![FavoriteTour](Image/FavoriteTour.PNG)
  ### FavoriteCourse
-  ![FavoriteCourse](Image/FavoriteCourse.png)
+  ![FavoriteCourse](Image/FavoriteCourse.PNG)
 
