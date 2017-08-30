@@ -19,20 +19,12 @@
 * ImageSet{C_ID, R_ID}
 ## Database Table
 ![TableDesign](Image/TableDesign.png)
- ### Identity
- ![Identity](Image/Identity.PNG)
- ### TourInfo
+  ![Identity](Image/Identity.PNG)
   ![TourInfo](Image/TourInfo.PNG)
- ### TourComment
   ![TourComment](Image/TourComment.PNG)
- ### CourceInfo
   ![CourceInfo](Image/CourceInfo.PNG)
- ### CourseRouteInfo
   ![CourseRouteInfo](Image/CourseRouteInfo.PNG)
- ### secRouteDetInfo
   ![secRouteDetInfo](Image/secRouteDetInfo.PNG)
- ### FavoriteTour
   ![FavoriteTour](Image/FavoriteTour.PNG)
- ### FavoriteCourse
   ![FavoriteCourse](Image/FavoriteCourse.PNG)
 
